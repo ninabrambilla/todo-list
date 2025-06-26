@@ -41,6 +41,6 @@ Este é um projeto completo de **To-Do List (lista de tarefas)** com sistema de 
 
 ## 📷 Print da aplicação
 
-![Tela do sistema](assets/css/To-do list.png)
+![Tela do sistema](assets/css/screenshot.png)
 
 ---
