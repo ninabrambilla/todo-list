@@ -35,7 +35,7 @@ Este é um projeto completo de **To-Do List (lista de tarefas)** com sistema de 
 - Importe o arquivo `banco.sql` via [phpMyAdmin](http://localhost/phpmyadmin)
 
 ### 3. Acesse no navegador:
-`http://localhost/todo-list`
+(http://localhost/todo-list)
 
 ---
 
